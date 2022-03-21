@@ -3487,3 +3487,525 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.21-04.00.16:634][183]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
 [2022.03.21-04.00.20:963][183]LogSlate: Window 'Delete Assets' being destroyed
 [2022.03.21-04.00.22:179][183]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2022.03.21-04.04.01:015][236]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.03.21-04.04.01:052][236]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.03.21-04.04.08:806][498]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Estructura_Item
+[2022.03.21-04.04.09:343][498]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.03.21-04.04.11:397][577]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Items/Estructura_Item.Estructura_Item
+[2022.03.21-04.05.00:197][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Estructura_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/Estructura_Item.uasset" SILENT=true
+[2022.03.21-04.05.00:203][522]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/Estructura_Item0633B6D64EC59E1B76B5B092EC8E763A.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/Estructura_Item.uasset'
+[2022.03.21-04.05.00:853][522]AssetCheck: New page: Asset Save: Estructura_Item
+[2022.03.21-04.05.00:853][522]LogContentValidation: Display: Validating UserDefinedStruct /Game/Items/Estructura_Item.Estructura_Item
+[2022.03.21-04.06.13:454][383]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.06.13:736][383]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2022.03.21-04.06.14:872][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.06.14:982][400]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_ItemFBE6D4AB4BC7CF5AD1D2ED9A4FD55A61.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.06.15:021][400]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.06.15:021][400]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.06.21:231][670]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2022.03.21-04.06.22:724][672]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2022.03.21-04.06.24:347][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.21-04.06.27:262][799]LogEditorViewport: Clicking on Actor (LMB): BP_Item_C (BP_Item)
+[2022.03.21-04.07.06:212][419]LogEditorViewport: Clicking on Actor (LMB): BP_Item_C (BP_Item2)
+[2022.03.21-04.07.15:329][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.21-04.07.39:977][887]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2022.03.21-04.07.40:058][887]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/ThirdPersonExampleMap_Auto72DC50B644EC6D1534784F4A3E28B2447.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2022.03.21-04.07.40:063][887]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.154
+[2022.03.21-04.07.40:064][887]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.154
+[2022.03.21-04.08.06:803][206]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.03.21-04.08.06:837][206]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.03.21-04.08.18:451][802]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WG_Información_Item
+[2022.03.21-04.08.19:050][802]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.03.21-04.08.27:693][119]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WG_Información_Item.WG_Información_Item
+[2022.03.21-04.09.34:828][335]BlueprintLog: New page: Compile WG_Información_Item
+[2022.03.21-04.09.34:908][335]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2022.03.21-04.09.36:073][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WG_Información_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset" SILENT=true
+[2022.03.21-04.09.36:086][358]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/WG_Información_ItemAFA3A0094CB78FDC3D6E23BFE4D2FBE4.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset'
+[2022.03.21-04.09.36:766][358]AssetCheck: New page: Asset Save: WG_Información_Item
+[2022.03.21-04.09.36:766][358]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WG_Información_Item.WG_Información_Item
+[2022.03.21-04.10.03:323][ 28]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 15D7BE20100C9025FE8D470C025847BB482400B4), compiling. 
+[2022.03.21-04.10.03:325][ 28]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.21-04.10.03:325][ 28]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2022.03.21-04.10.03:895][ 35]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.07:094][ 49]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/Fonts/VRTextMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/Fonts/VRTextMaterial.uasset' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.07:094][ 49]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.13:727][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.13:727][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.13:727][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.13:727][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.13:727][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'C:/Users/eduar/Documents/GitHub/Proyecto_VidenLinea'
+[2022.03.21-04.10.33:633][641]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.21-04.10.33:844][641]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.21-04.12.16:351][537]BlueprintLog: New page: Compile WG_Información_Item
+[2022.03.21-04.12.16:531][537]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2022.03.21-04.12.18:428][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WG_Información_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset" SILENT=true
+[2022.03.21-04.12.18:442][575]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/WG_Información_ItemD5E96D264C1F9B440E46D7B000F639C7.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset'
+[2022.03.21-04.12.18:470][575]AssetCheck: New page: Asset Save: WG_Información_Item
+[2022.03.21-04.12.18:470][575]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WG_Información_Item.WG_Información_Item
+[2022.03.21-04.12.20:178][618]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.12.20:337][618]LogUObjectHash: Compacting FUObjectHashTables data took   8.96ms
+[2022.03.21-04.12.21:492][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.12.21:538][634]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_Item61360A254C160A380CCCE586D97BA39C.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.12.21:566][634]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.12.21:566][634]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.12.24:268][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.21-04.12.34:889][200]LogEditorViewport: Clicking on Actor (LMB): BP_Item_C (BP_Item)
+[2022.03.21-04.12.39:914][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.21-04.12.41:816][520]LogEditorViewport: Clicking on Actor (LMB): BP_Item_C (BP_Item2)
+[2022.03.21-04.13.32:779][ 52]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.13.32:929][ 52]LogUObjectHash: Compacting FUObjectHashTables data took  10.22ms
+[2022.03.21-04.16.23:889][145]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.21-04.16.24:093][145]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2022.03.21-04.17.18:699][132]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.17.18:855][132]LogUObjectHash: Compacting FUObjectHashTables data took   9.17ms
+[2022.03.21-04.17.21:045][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.17.21:096][194]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_Item34A91ABD4CEC4F659FFB999E139A0308.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.17.21:124][194]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.17.21:124][194]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.18.49:177][281]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.21-04.18.49:349][281]LogUObjectHash: Compacting FUObjectHashTables data took   9.56ms
+[2022.03.21-04.18.50:860][297]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/ThirdPersonCharacter428E1A2C4FD22B1FCC8A5DB82427687C.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.21-04.18.50:896][297]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.21-04.18.50:897][297]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.21-04.18.51:920][325]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-04.18.51:938][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-04.18.51:938][325]PIE: New page: PIE session: ThirdPersonExampleMap (20 mar. 2022 16:18:51)
+[2022.03.21-04.18.51:939][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.18.51:964][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025129s)
+[2022.03.21-04.18.51:966][325]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.21-04.18.51:966][325]LogPlayLevel: PIE: World Init took: (0.002374s)
+[2022.03.21-04.18.51:966][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027837s)
+[2022.03.21-04.18.52:039][325]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2022.03.21-04.18.52:040][325]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.03.21-04.18.52:041][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-04.18.52:041][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-04.18.52:041][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-04.18.52:041][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-04.18.52:041][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-04.18.52:041][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-04.18.52:041][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-04.18.52:041][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-04.18.52:042][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-04.18.52:042][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-04.18.52:042][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-04.18.52:042][325]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-04.18.52:054][325]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-04.18.52:054][325]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-04.18.52:099][325]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.21-04.18.52:099][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-04.18.52:099][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-04.18.52:099][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-04.18.52:100][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-04.18.52:101][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-04.18.52:101][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-04.18.52:103][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-04.18.52:104][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-04.18.52:104][325]LogInit: FAudioDevice initialized.
+[2022.03.21-04.18.52:104][325]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2022.03.21-04.18.52:168][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.18.52:168][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.21-04.18.52:213][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.20-22.18.52
+[2022.03.21-04.18.52:214][325]LogWorld: Bringing up level for play took: 0.043567
+[2022.03.21-04.18.52:214][325]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.03.21-04.18.52:218][325]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-04.18.52:251][325]PIE: Server logged in
+[2022.03.21-04.18.52:260][325]PIE: Play in editor total start time 0.327 seconds.
+[2022.03.21-04.19.06:947][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.19.06:948][680]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.19.06:949][680]LogSlate: Window 'Proyecto_VidenLinea Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-04.19.06:974][680]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-04.19.06:976][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.19.06:997][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-04.19.07:026][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.19.07:090][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-04.19.07:090][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.19.07:093][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.19.07:112][680]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2022.03.21-04.19.07:182][681]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.03.21-04.19.38:418][622]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2022.03.21-04.19.38:489][622]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/ThirdPersonExampleMap_Auto8C67F46294FA235E3E36E74A444E5690E.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2022.03.21-04.19.38:493][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.142
+[2022.03.21-04.19.38:493][622]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2022.03.21-04.19.59:742][275]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-04.19.59:763][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-04.19.59:763][275]PIE: New page: PIE session: ThirdPersonExampleMap (20 mar. 2022 16:19:59)
+[2022.03.21-04.19.59:764][275]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.19.59:789][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025254s)
+[2022.03.21-04.19.59:792][275]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.21-04.19.59:794][275]LogPlayLevel: PIE: World Init took: (0.004147s)
+[2022.03.21-04.19.59:794][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030167s)
+[2022.03.21-04.19.59:862][275]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2022.03.21-04.19.59:915][275]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.03.21-04.19.59:915][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-04.19.59:915][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-04.19.59:915][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-04.19.59:915][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-04.19.59:915][275]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-04.19.59:915][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-04.19.59:916][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-04.19.59:916][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-04.19.59:916][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-04.19.59:916][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-04.19.59:916][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-04.19.59:917][275]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-04.19.59:927][275]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-04.19.59:927][275]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-04.19.59:969][275]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.21-04.19.59:969][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-04.19.59:970][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-04.19.59:970][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-04.19.59:971][275]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-04.19.59:971][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-04.19.59:971][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-04.19.59:973][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-04.19.59:974][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-04.19.59:974][275]LogInit: FAudioDevice initialized.
+[2022.03.21-04.19.59:974][275]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonExampleMap'.
+[2022.03.21-04.20.00:034][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.20.00:034][275]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.21-04.20.00:045][275]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.20-22.20.00
+[2022.03.21-04.20.00:046][275]LogWorld: Bringing up level for play took: 0.010574
+[2022.03.21-04.20.00:047][275]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.03.21-04.20.00:051][275]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-04.20.00:066][275]PIE: Server logged in
+[2022.03.21-04.20.00:075][275]PIE: Play in editor total start time 0.32 seconds.
+[2022.03.21-04.20.48:131][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.20.48:131][463]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.20.48:133][463]LogSlate: Window 'Proyecto_VidenLinea Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-04.20.48:162][463]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-04.20.48:164][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.20.48:189][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-04.20.48:220][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.20.48:289][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.20.48:291][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.20.48:309][463]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2022.03.21-04.20.48:380][464]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.03.21-04.21.33:799][136]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.21.33:977][136]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2022.03.21-04.21.34:975][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.21.35:029][154]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_ItemE0C254E34C35BCE95829DFBC181B5DA9.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.21.35:060][154]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.21.35:060][154]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.21.35:576][170]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-04.21.35:597][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-04.21.35:597][170]PIE: New page: PIE session: ThirdPersonExampleMap (20 mar. 2022 16:21:35)
+[2022.03.21-04.21.35:597][170]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.21.35:626][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028677s)
+[2022.03.21-04.21.35:629][170]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.21-04.21.35:630][170]LogPlayLevel: PIE: World Init took: (0.003900s)
+[2022.03.21-04.21.35:631][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033221s)
+[2022.03.21-04.21.35:694][170]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2022.03.21-04.21.35:695][170]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.03.21-04.21.35:695][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-04.21.35:696][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-04.21.35:696][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-04.21.35:696][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-04.21.35:696][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-04.21.35:696][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-04.21.35:696][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-04.21.35:696][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-04.21.35:697][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-04.21.35:697][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-04.21.35:697][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-04.21.35:697][170]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-04.21.35:707][170]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-04.21.35:707][170]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-04.21.35:749][170]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.21-04.21.35:750][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-04.21.35:750][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-04.21.35:750][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-04.21.35:751][170]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-04.21.35:751][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-04.21.35:751][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-04.21.35:754][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-04.21.35:754][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-04.21.35:754][170]LogInit: FAudioDevice initialized.
+[2022.03.21-04.21.35:754][170]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonExampleMap'.
+[2022.03.21-04.21.35:805][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.21.35:805][170]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.21-04.21.35:816][170]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.20-22.21.35
+[2022.03.21-04.21.35:817][170]LogWorld: Bringing up level for play took: 0.009727
+[2022.03.21-04.21.35:817][170]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.03.21-04.21.35:821][170]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-04.21.35:829][170]PIE: Server logged in
+[2022.03.21-04.21.35:833][170]PIE: Play in editor total start time 0.244 seconds.
+[2022.03.21-04.22.14:403][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.22.14:403][232]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.22.14:405][232]LogSlate: Window 'Proyecto_VidenLinea Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-04.22.14:432][232]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-04.22.14:434][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.22.14:489][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-04.22.14:516][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.22.14:577][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-04.22.14:578][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.22.14:580][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.22.14:612][232]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2022.03.21-04.22.14:710][233]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.03.21-04.22.43:335][136]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.22.43:502][136]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2022.03.21-04.22.45:326][184]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-04.22.45:345][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-04.22.45:345][184]PIE: New page: PIE session: ThirdPersonExampleMap (20 mar. 2022 16:22:45)
+[2022.03.21-04.22.45:346][184]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.22.45:371][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025013s)
+[2022.03.21-04.22.45:374][184]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.21-04.22.45:375][184]LogPlayLevel: PIE: World Init took: (0.004031s)
+[2022.03.21-04.22.45:376][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029880s)
+[2022.03.21-04.22.45:447][184]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2022.03.21-04.22.45:448][184]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.03.21-04.22.45:448][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-04.22.45:448][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-04.22.45:449][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-04.22.45:449][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-04.22.45:449][184]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-04.22.45:449][184]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-04.22.45:449][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-04.22.45:449][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-04.22.45:450][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-04.22.45:450][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-04.22.45:450][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-04.22.45:450][184]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-04.22.45:461][184]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-04.22.45:461][184]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-04.22.45:503][184]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.21-04.22.45:504][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-04.22.45:504][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-04.22.45:504][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-04.22.45:505][184]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-04.22.45:505][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-04.22.45:505][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-04.22.45:507][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-04.22.45:508][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-04.22.45:508][184]LogInit: FAudioDevice initialized.
+[2022.03.21-04.22.45:508][184]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonExampleMap'.
+[2022.03.21-04.22.45:570][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.22.45:571][184]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.21-04.22.45:581][184]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.20-22.22.45
+[2022.03.21-04.22.45:582][184]LogWorld: Bringing up level for play took: 0.009762
+[2022.03.21-04.22.45:582][184]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.03.21-04.22.45:586][184]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-04.22.45:594][184]PIE: Server logged in
+[2022.03.21-04.22.45:599][184]PIE: Play in editor total start time 0.261 seconds.
+[2022.03.21-04.23.01:434][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.23.01:434][610]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.23.01:435][610]LogSlate: Window 'Proyecto_VidenLinea Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-04.23.01:461][610]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-04.23.01:463][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.23.01:487][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-04.23.01:514][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.23.01:580][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-04.23.01:581][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.23.01:583][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.23.01:600][610]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2022.03.21-04.23.01:709][611]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.03.21-04.23.07:831][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.23.07:886][800]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_Item8AE8009A4241C28E985928BCAC11C084.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.23.07:968][800]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.23.07:969][800]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.23.44:579][105]BlueprintLog: New page: Compile WG_Información_Item
+[2022.03.21-04.23.44:727][105]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2022.03.21-04.23.46:063][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WG_Información_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset" SILENT=true
+[2022.03.21-04.23.46:080][140]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/WG_Información_Item041E01D74802EFE06BF46189EC9350D4.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset'
+[2022.03.21-04.23.46:113][140]AssetCheck: New page: Asset Save: WG_Información_Item
+[2022.03.21-04.23.46:114][140]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WG_Información_Item.WG_Información_Item
+[2022.03.21-04.25.04:203][765]BlueprintLog: New page: Compile WG_Información_Item
+[2022.03.21-04.25.04:438][765]LogUObjectHash: Compacting FUObjectHashTables data took   9.16ms
+[2022.03.21-04.25.05:482][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WG_Información_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset" SILENT=true
+[2022.03.21-04.25.05:509][792]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/WG_Información_Item7B1712F84056A76AB89EF290EBC2827F.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset'
+[2022.03.21-04.25.05:540][792]AssetCheck: New page: Asset Save: WG_Información_Item
+[2022.03.21-04.25.05:541][792]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WG_Información_Item.WG_Información_Item
+[2022.03.21-04.26.35:176][255]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.26.35:358][255]LogUObjectHash: Compacting FUObjectHashTables data took   9.77ms
+[2022.03.21-04.26.36:459][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.26.36:518][276]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_Item0FBE47E3484B13AC5CEE4A874BE25557.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.26.36:548][276]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.26.36:549][276]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.26.39:471][369]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-04.26.39:484][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-04.26.39:484][369]PIE: New page: PIE session: ThirdPersonExampleMap (20 mar. 2022 16:26:39)
+[2022.03.21-04.26.39:485][369]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.26.39:504][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019547s)
+[2022.03.21-04.26.39:506][369]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.21-04.26.39:506][369]LogPlayLevel: PIE: World Init took: (0.002006s)
+[2022.03.21-04.26.39:506][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021824s)
+[2022.03.21-04.26.39:577][369]LogUObjectHash: Compacting FUObjectHashTables data took   8.81ms
+[2022.03.21-04.26.39:579][369]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.03.21-04.26.39:579][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-04.26.39:579][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-04.26.39:580][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-04.26.39:580][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-04.26.39:580][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-04.26.39:580][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-04.26.39:580][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-04.26.39:580][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-04.26.39:581][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-04.26.39:581][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-04.26.39:581][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-04.26.39:581][369]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-04.26.39:591][369]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-04.26.39:591][369]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-04.26.39:637][369]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.21-04.26.39:638][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-04.26.39:638][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-04.26.39:638][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-04.26.39:639][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-04.26.39:639][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-04.26.39:639][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-04.26.39:642][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-04.26.39:642][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-04.26.39:642][369]LogInit: FAudioDevice initialized.
+[2022.03.21-04.26.39:642][369]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonExampleMap'.
+[2022.03.21-04.26.39:703][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.26.39:703][369]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.21-04.26.39:714][369]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.20-22.26.39
+[2022.03.21-04.26.39:715][369]LogWorld: Bringing up level for play took: 0.009817
+[2022.03.21-04.26.39:715][369]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.03.21-04.26.39:719][369]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-04.26.39:727][369]PIE: Server logged in
+[2022.03.21-04.26.39:733][369]PIE: Play in editor total start time 0.253 seconds.
+[2022.03.21-04.26.57:368][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.26.57:368][837]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.26.57:369][837]LogSlate: Window 'Proyecto_VidenLinea Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-04.26.57:392][837]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-04.26.57:394][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.26.57:424][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-04.26.57:453][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.26.57:517][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-04.26.57:518][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.26.57:520][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.26.57:537][837]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2022.03.21-04.26.57:659][838]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.03.21-04.27.47:622][254]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.27.47:785][254]LogUObjectHash: Compacting FUObjectHashTables data took   9.77ms
+[2022.03.21-04.27.48:995][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.27.49:055][272]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_Item0CF4497749072579E645B0AF6E35515F.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.27.49:083][272]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.27.49:084][272]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.28.50:941][158]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.21-04.29.04:527][552]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.21-04.29.09:290][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WG_Información_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset" SILENT=true
+[2022.03.21-04.29.09:315][689]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/WG_Información_ItemC4A7BDFF46FE98AEBCDED4A1325820E1.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/UI/WG_Información_Item.uasset'
+[2022.03.21-04.29.09:349][689]AssetCheck: New page: Asset Save: WG_Información_Item
+[2022.03.21-04.29.09:349][689]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WG_Información_Item.WG_Información_Item
+[2022.03.21-04.29.09:979][706]BlueprintLog: New page: Compile WG_Información_Item
+[2022.03.21-04.29.10:235][706]LogUObjectHash: Compacting FUObjectHashTables data took  10.18ms
+[2022.03.21-04.30.06:522][945]BlueprintLog: New page: Compile BP_Item
+[2022.03.21-04.30.06:689][945]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2022.03.21-04.30.09:442][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-04.30.09:485][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-04.30.09:485][ 15]PIE: New page: PIE session: ThirdPersonExampleMap (20 mar. 2022 16:30:09)
+[2022.03.21-04.30.09:485][ 15]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.30.09:516][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030706s)
+[2022.03.21-04.30.09:519][ 15]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.21-04.30.09:521][ 15]LogPlayLevel: PIE: World Init took: (0.003996s)
+[2022.03.21-04.30.09:521][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035337s)
+[2022.03.21-04.30.09:586][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2022.03.21-04.30.09:588][ 15]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.03.21-04.30.09:588][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-04.30.09:588][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-04.30.09:588][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-04.30.09:588][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-04.30.09:588][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-04.30.09:588][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-04.30.09:588][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-04.30.09:588][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-04.30.09:589][ 15]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-04.30.09:589][ 15]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-04.30.09:589][ 15]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-04.30.09:589][ 15]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-04.30.09:599][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-04.30.09:599][ 15]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-04.30.09:643][ 15]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.21-04.30.09:644][ 15]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-04.30.09:644][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-04.30.09:644][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-04.30.09:645][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-04.30.09:645][ 15]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-04.30.09:645][ 15]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-04.30.09:648][ 15]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-04.30.09:648][ 15]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-04.30.09:648][ 15]LogInit: FAudioDevice initialized.
+[2022.03.21-04.30.09:648][ 15]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonExampleMap'.
+[2022.03.21-04.30.09:711][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.30.09:712][ 15]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.21-04.30.09:722][ 15]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.20-22.30.09
+[2022.03.21-04.30.09:723][ 15]LogWorld: Bringing up level for play took: 0.009789
+[2022.03.21-04.30.09:723][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.03.21-04.30.09:727][ 15]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-04.30.09:736][ 15]PIE: Server logged in
+[2022.03.21-04.30.09:741][ 15]PIE: Play in editor total start time 0.264 seconds.
+[2022.03.21-04.30.34:819][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.30.34:819][707]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.30.34:821][707]LogSlate: Window 'Proyecto_VidenLinea Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-04.30.34:842][707]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-04.30.34:844][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.30.34:868][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-04.30.34:895][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.30.34:960][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-04.30.34:960][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.30.34:963][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.30.34:979][707]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2022.03.21-04.30.35:085][708]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.03.21-04.30.49:974][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset" SILENT=true
+[2022.03.21-04.30.50:035][ 54]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/BP_Item8E4C0364444CC4A2D6B5B0BD6557A1FD.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Content/Items/BP_Item.uasset'
+[2022.03.21-04.30.50:067][ 54]AssetCheck: New page: Asset Save: BP_Item
+[2022.03.21-04.30.50:067][ 54]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Item.BP_Item
+[2022.03.21-04.30.50:770][ 74]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-04.30.50:793][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-04.30.50:793][ 74]PIE: New page: PIE session: ThirdPersonExampleMap (20 mar. 2022 16:30:50)
+[2022.03.21-04.30.50:794][ 74]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.30.50:830][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035478s)
+[2022.03.21-04.30.50:832][ 74]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.21-04.30.50:833][ 74]LogPlayLevel: PIE: World Init took: (0.003369s)
+[2022.03.21-04.30.50:833][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039288s)
+[2022.03.21-04.30.50:901][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2022.03.21-04.30.50:906][ 74]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.03.21-04.30.50:906][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-04.30.50:907][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-04.30.50:907][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-04.30.50:907][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-04.30.50:907][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-04.30.50:907][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-04.30.50:907][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-04.30.50:907][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-04.30.50:908][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-04.30.50:908][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-04.30.50:908][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-04.30.50:908][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-04.30.50:919][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-04.30.50:919][ 74]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-04.30.50:962][ 74]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.21-04.30.50:962][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-04.30.50:963][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-04.30.50:963][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-04.30.50:964][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-04.30.50:964][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-04.30.50:964][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-04.30.50:966][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-04.30.50:966][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-04.30.50:967][ 74]LogInit: FAudioDevice initialized.
+[2022.03.21-04.30.50:967][ 74]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonExampleMap'.
+[2022.03.21-04.30.51:021][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.30.51:022][ 74]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.21-04.30.51:032][ 74]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.20-22.30.51
+[2022.03.21-04.30.51:033][ 74]LogWorld: Bringing up level for play took: 0.009685
+[2022.03.21-04.30.51:033][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.03.21-04.30.51:037][ 74]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.21-04.30.51:045][ 74]PIE: Server logged in
+[2022.03.21-04.30.51:049][ 74]PIE: Play in editor total start time 0.265 seconds.
+[2022.03.21-04.31.01:623][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-04.31.01:623][362]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.21-04.31.01:625][362]LogSlate: Window 'Proyecto_VidenLinea Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-04.31.01:650][362]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-04.31.01:652][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.31.01:670][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-04.31.01:696][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-04.31.01:754][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-04.31.01:755][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.31.01:757][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-04.31.01:772][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.03.21-04.31.01:897][363]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.03.21-04.32.16:195][786]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2022.03.21-04.32.16:296][786]LogSavePackage: Moving '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/ThirdPersonExampleMap_Auto9074E30A943931079D5DA29812F6F4421.tmp' to '../../../../../../Users/eduar/Documents/GitHub/Proyecto_VidenLinea/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2022.03.21-04.32.16:303][786]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.193
+[2022.03.21-04.32.16:303][786]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.193
