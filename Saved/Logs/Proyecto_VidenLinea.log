@@ -4769,3 +4769,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.24-00.31.08:351][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.05.24-00.31.08:357][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
 [2022.05.24-00.31.08:372][982]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.05.24-00.38.25:690][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.05.24-00.38.25:712][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/online/MenuHostWidget" FILE="../../../../../git/reposits/bryan/Proyecto_VidenLinea/Content/online/MenuHostWidget.uasset" SILENT=true
+[2022.05.24-00.38.25:726][693]LogSavePackage: Moving '../../../../../git/reposits/bryan/Proyecto_VidenLinea/Saved/MenuHostWidgetF38CBC774E16429EA1F4C8972686E779.tmp' to '../../../../../git/reposits/bryan/Proyecto_VidenLinea/Content/online/MenuHostWidget.uasset'
+[2022.05.24-00.38.25:727][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/menuprincipal_widget" FILE="../../../../../git/reposits/bryan/Proyecto_VidenLinea/Content/ThirdPersonBP/Maps/menuprincipal_widget.uasset" SILENT=true
+[2022.05.24-00.38.25:737][693]LogSavePackage: Moving '../../../../../git/reposits/bryan/Proyecto_VidenLinea/Saved/menuprincipal_widgetE1F097EA431F39B5F603ADAE781A17AF.tmp' to '../../../../../git/reposits/bryan/Proyecto_VidenLinea/Content/ThirdPersonBP/Maps/menuprincipal_widget.uasset'
+[2022.05.24-00.38.25:751][693]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-00.38.25:751][693]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/menuprincipal_widget.menuprincipal_widget
+[2022.05.24-00.38.25:751][693]LogContentValidation: Display: Validating WidgetBlueprint /Game/online/MenuHostWidget.MenuHostWidget
